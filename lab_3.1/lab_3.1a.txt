@@ -1,0 +1,14 @@
+﻿"lab_3.1.exe" (Win32). Загружено "D:\visual studio projects\lab_3.1\Debug\lab_3.1.exe". Символы загружены.
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x3dd0 завершился с кодом 0 (0x0).
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"lab_3.1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x3980 завершился с кодом 0 (0x0).
+Поток 0x2368 завершился с кодом 0 (0x0).
+Программа "[8636] lab_3.1.exe" завершилась с кодом 0 (0x0).
